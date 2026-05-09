@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-web",
+  "version": "1.0.0",
+  "description": "Proyecto web básico",
+  "main": "js/script.js",
+  "scripts": {
+    "start": "echo 'Start your development server here'",
+    "build": "echo 'Build your project here'",
+    "test": "echo 'Add tests here'"
+  },
+  "keywords": ["web", "project"],
+  "author": "",
+  "license": "MIT"
+}
